@@ -1,0 +1,15 @@
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.csproj.AssemblyReference.cache
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.AssemblyInfoInputs.cache
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.AssemblyInfo.cs
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.csproj.CoreCompileInputs.cache
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.exe
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.deps.json
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.runtimeconfig.json
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.dll
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\bin\Debug\net6.0\ref\CotacaoDolar.dll
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.pdb
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.dll
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\obj\Debug\net6.0\ref\CotacaoDolar.dll
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.pdb
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.genruntimeconfig.cache

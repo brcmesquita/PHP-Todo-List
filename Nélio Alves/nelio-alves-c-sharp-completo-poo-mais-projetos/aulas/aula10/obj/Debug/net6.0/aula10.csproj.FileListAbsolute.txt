@@ -1,0 +1,15 @@
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/bin/Debug/net6.0/aula10
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/bin/Debug/net6.0/aula10.deps.json
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/bin/Debug/net6.0/aula10.runtimeconfig.json
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/bin/Debug/net6.0/aula10.dll
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/bin/Debug/net6.0/aula10.pdb
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/aula10.csproj.AssemblyReference.cache
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/aula10.GeneratedMSBuildEditorConfig.editorconfig
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/aula10.AssemblyInfoInputs.cache
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/aula10.AssemblyInfo.cs
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/aula10.csproj.CoreCompileInputs.cache
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/aula10.dll
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/refint/aula10.dll
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/aula10.pdb
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/aula10.genruntimeconfig.cache
+/home/brunoraphael/Workspaces/Cursos/udemy/C#/Nélio Alves/aulas/aula10/obj/Debug/net6.0/ref/aula10.dll

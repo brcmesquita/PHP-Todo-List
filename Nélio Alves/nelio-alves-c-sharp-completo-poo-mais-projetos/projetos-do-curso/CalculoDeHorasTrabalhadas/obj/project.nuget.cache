@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oy20N6WzWv0Vz57Eow6r/EeP3FLtN7Nd8BFU+ooV3RCwYcCbYk3hwKQZFl8viuwFylGoeQwerWA6VcUXRMPnsQ==",
+  "success": true,
+  "projectFilePath": "/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/exercicios-mod-03.csproj",
+  "expectedPackageFiles": [
+    "/home/raphaelcabral/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

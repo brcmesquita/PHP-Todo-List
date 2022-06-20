@@ -1,0 +1,15 @@
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.exe
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.deps.json
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.runtimeconfig.json
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.dll
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\bin\Debug\net6.0\ref\PessoaMaisVelha.dll
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.pdb
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.AssemblyReference.cache
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfo.cs
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.dll
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\obj\Debug\net6.0\ref\PessoaMaisVelha.dll
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.pdb
+D:\Workspaces\cursos\udemy\c-sharp\exercicios\exercicios-mod-04\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.genruntimeconfig.cache

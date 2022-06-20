@@ -1,0 +1,16 @@
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/bin/Debug/net5.0/exercicios-mod-03
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/bin/Debug/net5.0/exercicios-mod-03.deps.json
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/bin/Debug/net5.0/exercicios-mod-03.runtimeconfig.json
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/bin/Debug/net5.0/exercicios-mod-03.runtimeconfig.dev.json
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/bin/Debug/net5.0/exercicios-mod-03.dll
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/bin/Debug/net5.0/ref/exercicios-mod-03.dll
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/bin/Debug/net5.0/exercicios-mod-03.pdb
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/obj/Debug/net5.0/exercicios-mod-03.csprojAssemblyReference.cache
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/obj/Debug/net5.0/exercicios-mod-03.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/obj/Debug/net5.0/exercicios-mod-03.AssemblyInfoInputs.cache
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/obj/Debug/net5.0/exercicios-mod-03.AssemblyInfo.cs
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/obj/Debug/net5.0/exercicios-mod-03.csproj.CoreCompileInputs.cache
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/obj/Debug/net5.0/exercicios-mod-03.dll
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/obj/Debug/net5.0/ref/exercicios-mod-03.dll
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/obj/Debug/net5.0/exercicios-mod-03.pdb
+/home/raphaelcabral/workspaces/cursos/udemy/c-sharp/exercicios/exercicios-mod-03/obj/Debug/net5.0/exercicios-mod-03.genruntimeconfig.cache
